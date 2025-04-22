@@ -13,7 +13,7 @@
 
 📚 I’m currently sharpening my skills in the world of backend and frontend web development.  
 📝 Recently, I completed the **Independent Study Batch 7 Kampus Merdeka** program with **Binar Academy** in **Backend JavaScript Development**.  
-🏅 You can check out my other licenses and certificates in my portfolio! [Certificate](https://www.linkedin.com/in/muhamad-azi-sudarya-79002625a/)
+🏅 You can check out my other licenses and certificates [Here!](https://www.linkedin.com/in/muhamad-azi-sudarya-79002625a/)
 
 ---
 
