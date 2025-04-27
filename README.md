@@ -55,15 +55,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-## my stats & streak 🔥
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 12px;">
-  <div>
+## my streak 🔥
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark" alt="GitHub Streak"/>
-  </div>
   
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
-  </div>
 </div>
 
 
