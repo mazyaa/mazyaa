@@ -62,7 +62,7 @@
   </div>
   
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true$theme=dark" alt="Status"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
   </div>
 </div>
 
