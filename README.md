@@ -56,7 +56,8 @@
 </p>
 
 ## my streak
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazyaa)
+
 
 
 
