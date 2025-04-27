@@ -56,7 +56,7 @@
 </p>
 
 ## my streak 🔥
-<div>
+<div align="center">
     <img style="display: flex; justify-content: center; align-items: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark" alt="GitHub Streak"/>
 </div>
 
