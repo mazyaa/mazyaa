@@ -56,7 +56,7 @@
 </p>
 
 ## my stats & streak 🔥
-<div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 12px;">
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark" alt="GitHub Streak"/>
   </div>
