@@ -56,9 +56,10 @@
 </p>
 
 ## my stats & streak 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark) 
+<div align="center" style="margin: 20px;">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark) 
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark) 
 
 
 
