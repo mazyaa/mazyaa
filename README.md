@@ -19,20 +19,10 @@
 
 ## 🌐 Find Me Online
 
-<div align="center">
-  
-  <div style="display: inline-block; text-align: left; margin-right: 20px;">
-    <p>📫 <strong>Email</strong>: azisdryaa9128@gmail.com</p>
-    <p>🌐 <strong>Portfolio</strong>: <a href="https://my-portofolio-five-beryl.vercel.app/" target="_blank">mazya's Portfolio</a></p>
+- 📫 Email: **azisdryaa9128@gmail.com**
+- 🌐 Portfolio Website: [mazya's Portfolio](https://my-portofolio-five-beryl.vercel.app/)   <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
   </div>
-
-  <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="GitHub Stats" width="400" />
-  </div>
-
-</div>
-
-
 ---
 
 
