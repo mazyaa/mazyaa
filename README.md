@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/RgWIsbDWOAr1HGqC8t/giphy.gif" width="100%"/>
   
-  ## Hello, I'm Muhamad Azi Sudarya ✨
+  ## Hello, I'm Muhamad Azi Sudarya 👋
 
   🎓 Informatics Engineering Student at Universitas Banten Jaya  
   👨‍💻 Passionate about Fullstack web development, especially in Backend technologies  
