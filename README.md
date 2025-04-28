@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+<img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="100%"/>
   
   ## Hello, I'm Muhamad Azi Sudarya ✨
 
@@ -18,9 +18,24 @@
 ---
 
 ## 🌐 Find Me Online
+<div align="center">
 
-- 📫 Email: **azisdryaa9128@gmail.com**
-- 🌐 Portfolio Website: [mazya's Portfolio](https://my-portofolio-five-beryl.vercel.app/)
+<table>
+  <tr>
+    <td align="center" width="400px">
+      
+📫 **Email**: azisdryaa9128@gmail.com  
+🌐 **Portfolio**: [mazya's Portfolio](https://my-portofolio-five-beryl.vercel.app/)
+
+    </td>
+    <td align="center" width="400px">
+      <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -60,10 +75,6 @@
     <img style="display: flex; justify-content: center; align-items: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark" alt="GitHub Streak"/>
 </div>
 
-## My stats 📈
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
-</div>
 
 
 
