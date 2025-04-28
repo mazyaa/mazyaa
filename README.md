@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/RgWIsbDWOAr1HGqC8t/giphy.gif" width="100%"/>
   
   ## Hello, I'm Muhamad Azi Sudarya ✨
 
