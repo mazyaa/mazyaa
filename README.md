@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" />
+<img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" width="100%"/>
   
   ## Hello, I'm Muhamad Azi Sudarya ✨
 
@@ -58,6 +58,7 @@
 <div align="center">
     <img style="display: flex; justify-content: center; align-items: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark" alt="GitHub Streak"/>
 </div>
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
 </div>
