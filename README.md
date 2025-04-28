@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="100"/>
   
   ## Hello, I'm Muhamad Azi Sudarya ✨
 
@@ -18,24 +18,19 @@
 ---
 
 ## 🌐 Find Me Online
+
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="400px">
-      
-📫 **Email**: azisdryaa9128@gmail.com  
-🌐 **Portfolio**: [mazya's Portfolio](https://my-portofolio-five-beryl.vercel.app/)
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+    <p>📫 <strong>Email</strong>: azisdryaa9128@gmail.com</p>
+    <p>🌐 <strong>Portfolio</strong>: <a href="https://my-portofolio-five-beryl.vercel.app/">mazya's Portfolio</a></p>
+  </div>
 
-    </td>
-    <td align="center" width="400px">
-      <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
-    </td>
-  </tr>
-</table>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status" width="400"/>
+  </div>
 
 </div>
-
 
 ---
 
