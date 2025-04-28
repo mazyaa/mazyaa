@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" />
   
   ## Hello, I'm Muhamad Azi Sudarya ✨
 
@@ -19,8 +19,7 @@
 
 ## 🌐 Find Me Online
 
-<div align="center">
-
+<div>
   <div style="display: inline-block; text-align: left; margin-right: 20px;">
     <p>📫 <strong>Email</strong>: azisdryaa9128@gmail.com</p>
     <p>🌐 <strong>Portfolio</strong>: <a href="https://my-portofolio-five-beryl.vercel.app/">mazya's Portfolio</a></p>
