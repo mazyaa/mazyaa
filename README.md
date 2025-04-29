@@ -56,6 +56,18 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+## 🛠️ Tools
+<p>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+</p>
+
+## 🛢️ORM
+<p>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge" />
+</p>
+
 ## My streak and stats🔥 
 <div align="center">
     <img style="display: flex; justify-content: center; align-items: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark" alt="GitHub Streak"/>
