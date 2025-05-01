@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <img src="https://media.giphy.com/media/RgWIsbDWOAr1HGqC8t/giphy.gif" width="100%"/>
   
   ## Hello, I'm Muhamad Azi Sudarya 👋
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/DaisyUI-8B5CF6?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI Badge" />
   <img src="https://img.shields.io/badge/Reactbits-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Reactbits Badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 ## 🖥️ Framework - Back End
@@ -57,13 +58,19 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge" />
 </p>
 
-## 🛠️ Tools
+## 🛠️ Tools & Library
 <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
     <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon Badge" />
     <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver Badge" />
+    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
 
