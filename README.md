@@ -12,7 +12,7 @@
 ## 🚀 Current Focus
 
 📚 I’m currently sharpening my skills in the world of backend and frontend web development.  
-📝 Recently, I completed the **Independent Study Batch 7 Kampus Merdeka** program with **Binar Academy** in **Backend JavaScript - Wih AI Literacy & Global Certification**.  
+📝 Recently, I completed the **Independent Study Batch 7 Kampus Merdeka** program with **Binar Academy** in **Backend JavaScript - With AI Literacy & Global Certification**.  
 🏅 You can check out my other licenses and certificates [Here!](https://www.linkedin.com/in/muhamad-azi-sudarya-79002625a/)
 
 ---
