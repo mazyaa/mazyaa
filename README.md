@@ -6,8 +6,6 @@
  👨‍🎓 Informatics student at Universitas Banten Jaya <br>
 👨‍💻 Just a student who loves to build and learn cool stuff with code <br>
 💡 Passionate about tech, self-growth, and solving real-world problems <br>
-🛠️ Experienced in: HTML, CSS, JavaScript, PHP, VB.NET, SQL <br>
-🌱 Currently learning Back-End JavaScript at Binar Academy
 
 </div>
 
