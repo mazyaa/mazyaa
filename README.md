@@ -3,8 +3,11 @@
   
   ## Hello, I'm Muhamad Azi Sudarya 👋
 
-  🎓 Informatics Engineering Student at Universitas Banten Jaya  
-  👨‍💻 Passionate about Fullstack web development, especially in Backend technologies  
+ 👨‍🎓 Informatics student at Universitas Banten Jaya
+👨‍💻 Just a student who loves to build and learn cool stuff with code
+💡 Passionate about tech, self-growth, and solving real-world problems
+🛠️ Experienced in: HTML, CSS, JavaScript, PHP, VB.NET, SQL
+🌱 Currently learning Back-End JavaScript at Binar Academy
 </div>
 
 ---
