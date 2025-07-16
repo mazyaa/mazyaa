@@ -99,7 +99,6 @@
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazyaa&theme=tokyonight)
 </div>
 
 
