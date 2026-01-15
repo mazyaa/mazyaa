@@ -94,21 +94,18 @@
 
 ## My streak and stats🔥 
 
-<div align="center">
-    <img style="display: flex; justify-content: center; align-items: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=mazyaa&theme=dark" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mazyaa&theme=dark" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mazyaa&show_icons=true&theme=dark" />
+</p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mazyaa&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="Status"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mazyaa&layout=compact&theme=dark" />
+</p>
 
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazyaa&layout=compact&theme=dark" alt="Most Used Languages"/>
-</div>
 
 
 
