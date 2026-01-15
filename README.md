@@ -29,22 +29,26 @@
 ## 💻 Tech Stack
 ## 🚀 Markup & Programming Language
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Css-3178C6?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
 </p>
 
 ## 🎨 Framework - Front End
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaisyUI-8B5CF6?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI Badge" />
-  <img src="https://img.shields.io/badge/Reactbits-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Reactbits Badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI Badge"/>
+  <img src="https://img.shields.io/badge/DaisyUI-8B5CF6?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI Badge"/>
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hero UI Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/Reactbits-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Reactbits Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
 </p>
+
 
 ## 🖥️ Framework - Back End
 <p>
@@ -78,18 +82,21 @@
 
 ## 🛠️ All Tools & Library
 <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
-    <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon Badge" />
-    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Joi-8B8B8B?style=for-the-badge&logo=joi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DBdiagram-44A6FF?style=for-the-badge&logo=dbdiagram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nodemailer-1969E3?style=for-the-badge&logo=nodemailer&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon Badge" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP Badge" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery Badge"/>
+  <img src="https://img.shields.io/badge/Joi-8B8B8B?style=for-the-badge&logo=joi&logoColor=white" alt="Joi Validation Badge"/>
+  <img src="https://img.shields.io/badge/Yup-3F3F46?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Yup Validation Badge"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query Badge"/>
+  <img src="https://img.shields.io/badge/DBdiagram-44A6FF?style=for-the-badge&logo=dbdiagram&logoColor=white" alt="DBDiagram Badge"/>
+  <img src="https://img.shields.io/badge/Nodemailer-1969E3?style=for-the-badge&logo=nodemailer&logoColor=white" alt="Nodemailer Badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JSON Web Token Badge"/>
+  <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger UI Badge"/>
 </p>
+
 
 
 ## My streak and stats🔥 
