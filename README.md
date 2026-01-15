@@ -95,16 +95,26 @@
 ## My streak and stats🔥 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mazyaa&theme=dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=mazyaa&theme=dark"
+    alt="GitHub Streak Stats Mazyaa"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mazyaa&show_icons=true&theme=dark" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mazyaa&show_icons=true&theme=dark"
+    alt="GitHub Statistics Mazyaa"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mazyaa&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mazyaa&layout=compact&theme=dark"
+    alt="Most Used Programming Languages by Mazyaa"
+  />
 </p>
+
 
 
 
